@@ -2,7 +2,7 @@ This is a simple Todo application built using Streamlit and Python. The app allo
 
 Features:
 ================================
-Add Tasks: Quickly add new tasks to your todo list.
-Edit Tasks: Modify existing tasks as needed.
-Delete Tasks: Remove tasks that are no longer necessary.
+1.Add Tasks: Quickly add new tasks to your todo list.
+2.Edit Tasks: Modify existing tasks as needed.
+3.Delete Tasks: Remove tasks that are no longer necessary.
 Streamlit Interface: User-friendly interface powered by Streamlit.
